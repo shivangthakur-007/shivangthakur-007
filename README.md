@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-Commerce](https://combonation.in)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Data Structura and Algorithms**
 
 - 👯 I’m looking to collaborate on **learning Management System**
 
