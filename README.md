@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangthakur-007" alt="shivangthakur-007" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce](https://combonation.in)
+- 🔭 I’m currently working on [E-Commerce][(https://food-delivery-frontend-opgw.onrender.com/)]
 
 - 🌱 I’m currently learning **Data Structura and Algorithms**
 
