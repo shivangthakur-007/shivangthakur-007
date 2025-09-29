@@ -1,43 +1,39 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Adarsh Pratap Singh</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+# Hi there 👋, I'm Adarsh Pratap Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangthakur-007&label=Profile%20views&color=0e75b6&style=flat" alt="shivangthakur-007" /> </p>
+### A passionate Full-Stack Developer from India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangthakur-007" alt="shivangthakur-007" /></a> </p>
+![Coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV2dHJjeWdyaWFpdzJveHhsZHpqZmY2aW41NjZjcnJycG44d2l4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif)
 
-- 🔭 I’m currently working on [E-Commerce][(https://chat-app-production-nsmb.onrender.com/)]
+![shivangthakur-007](https://komarev.com/ghpvc/?username=shivangthakur-007&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Data Structura and Algorithms**
+- 🔭 I’m currently working on **E-Commerce projects** (check out my Chat Application as a recent deployment example)
+- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
+- 👯 I’m looking to collaborate on **real-time Chat Applications** or full-stack web projects
+- 💬 Ask me about **React, Node.js, JavaScript, or core web development concepts**
+- 📫 How to reach me: **thakurshivang579@gmail.com**
+- ⚡ Fun fact: I love turning complex problems into simple, elegant code solutions!
 
-- 👯 I’m looking to collaborate on **Chat Application**
+### Connect with me:
 
-- 💬 Ask me about **react, node, javascript, concepts about javascript**
+### Languages and Tools:
 
-- 📫 How to reach me **thakurshivang579@gmail.com**
+### My Projects:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="[https://www.cprogramming.com/](https://www.linkedin.com/in/adarsh-pratap-singh-a850b5231/)" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://camo.githubusercontent.com/eab6def9d5223f7…4696e2f6c696e6b6564696e2d6f726967696e616c2e737667)" alt="c" width="40" height="40"/> </a>
-</p>
+Here are some of my pinned repositories:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
+- Chat Application: Full-stack Learning Management System (JavaScript, MERN stack)
+- Social Media App: Full-stack Learning Management System (JavaScript, MERN stack)
+- Food Delivery App: Full-stack Learning Management System (JavaScript, MERN stack)
+- lms: Full-stack Learning Management System (JavaScript, MERN stack)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangthakur-007&show_icons=true&locale=en&layout=compact" alt="shivangthakur-007" /></p>
+- Check in Portfolio tag in this page.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangthakur-007&show_icons=true&locale=en" alt="shivangthakur-007" /></p>
+### Stats:
+
+![shivangthakur-007](https://github-readme-stats.vercel.app/api/top-langs?username=shivangthakur-007&show_icons=true&locale=en&layout=compact)
+
+ 
+
+![shivangthakur-007](https://github-readme-stats.vercel.app/api?username=shivangthakur-007&show_icons=true&locale=en)
+
+![shivangthakur-007](https://github-readme-streak-stats.herokuapp.com/?user=shivangthakur-007&)
